@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# production
+build/
+dist/
+
+# misc
+.env
+.DS_Store
+*.log
+
+# editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# coverage
+coverage/
