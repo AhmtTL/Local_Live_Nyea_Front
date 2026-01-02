@@ -1,4 +1,4 @@
-name: Deploy LOCAL MAIN - NYEA - Frontend to Azure VM
+name: Deploy LOCAL DEVELOPMENT - NYEA - Frontend to Azure VM
 on:
   push:
     branches:
