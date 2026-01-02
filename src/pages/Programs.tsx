@@ -172,7 +172,7 @@ const Programs: React.FC = () => {
                     <div className="bg-blue-400/10 backdrop-blur-md rounded-xl border border-blue-400/20 p-4">
                         <p className="text-blue-400 font-bold uppercase tracking-wider text-center text-xs md:text-sm lg:text-md">
                             <span className="text-white">{filteredPrograms.length}</span> PROGRAMS AVAILABLE •<span className="text-white">{pagination?.total || 0}</span> TOTAL
-                            PROGRAMS
+                            PROGRAMS LAR LAR LAR
                         </p>
                     </div>
                 </div>
