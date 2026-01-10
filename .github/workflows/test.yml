@@ -1,8 +1,8 @@
-name: Deploy LOCAL MAIN - NYEA - Frontend to Azure VM
+name: Deploy LOCAL DEVELOPMENT - NYEA - Frontend to Azure VM
 on:
   push:
     branches:
-      - development   # change if your default branch is different  
+      - development   # change if your default branch is diff
 
 jobs:
   build-and-deploy:
